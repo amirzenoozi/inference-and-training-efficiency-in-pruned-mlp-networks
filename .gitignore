@@ -1,0 +1,13 @@
+.idea
+.venv
+*.csv
+/deprecated_codes/**/dataset
+/deprecated_codes/**/model_checkpoints/*
+
+/*/model_checkpoints/*/
+/*/model_checkpoints/*.csv
+/*/model_checkpoints/*.json
+/*/model_checkpoints/*.pth
+/*/model_checkpoints/*.png
+/*/__pycache__
+__pycache__
